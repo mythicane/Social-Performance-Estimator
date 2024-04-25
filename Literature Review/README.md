@@ -5,3 +5,4 @@
 
 
 # Literature Review: Here, I will store the literature used to support the project.
+Take note of the .pdf titled "Social Performance Estimator PAPER". This is the overall report of the project in research essay form. 
